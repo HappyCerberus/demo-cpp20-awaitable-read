@@ -11,6 +11,9 @@
 *.gch
 *.pch
 
+# Module cache
+gcm.cache
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
